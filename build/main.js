@@ -1,1 +1,462 @@
-webpackJsonp([0],{127:function(l,n){function a(l){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+l+"'.")})}a.keys=function(){return[]},a.resolve=a,l.exports=a,a.id=127},158:function(l,n){function a(l){return Promise.resolve().then(function(){throw new Error("Cannot find module '"+l+"'.")})}a.keys=function(){return[]},a.resolve=a,l.exports=a,a.id=158},186:function(l,n,a){"use strict";function u(l){return c._24(0,[(l()(),c._4(0,null,null,7,"button",[["class","item item-block"],["ion-item",""],["menuClose",""]],null,[[null,"click"]],function(l,n,a){var u=!0,t=l.component;return"click"===n&&(u=!1!==c._18(l,6).close()&&u),"click"===n&&(u=!1!==t.openPage(l.context.$implicit)&&u),u},H.b,H.a)),c._2(1097728,null,3,L.a,[R.a,Y.a,c.k,c.C,[2,J.a]],null,null),c._21(335544320,4,{contentLabel:0}),c._21(603979776,5,{_buttons:1}),c._21(603979776,6,{_icons:1}),c._2(16384,null,0,S.a,[],null,null),c._2(16384,null,0,U.a,[Z.a],{menuClose:[0,"menuClose"]},null),(l()(),c._23(2,["\n        ","\n      "]))],function(l,n){l(n,6,0,"")},function(l,n){l(n,7,0,n.context.$implicit.title)})}function t(l){return c._24(0,[c._21(402653184,1,{nav:0}),(l()(),c._4(0,null,null,28,"ion-menu",[["role","navigation"]],null,null,null,A.b,A.a)),c._20(6144,null,D.a,null,[G.a]),c._2(245760,null,2,G.a,[Z.a,c.k,Y.a,N.a,c.C,Q.a,W.l,X.a,K.a],{content:[0,"content"]},null),c._21(335544320,2,{menuContent:0}),c._21(335544320,3,{menuNav:0}),(l()(),c._23(0,["\n  "])),(l()(),c._4(0,null,0,10,"ion-header",[],null,null,null,null,null)),c._2(16384,null,0,V.a,[Y.a,c.k,c.C,[2,ll.a]],null,null),(l()(),c._23(null,["\n    "])),(l()(),c._4(0,null,null,6,"ion-toolbar",[["class","toolbar"]],[[2,"statusbar-padding",null]],null,null,nl.b,nl.a)),c._2(49152,null,0,al.a,[Y.a,c.k,c.C],null,null),(l()(),c._23(3,["\n      "])),(l()(),c._4(0,null,3,2,"ion-title",[],null,null,null,ul.b,ul.a)),c._2(49152,null,0,tl.a,[Y.a,c.k,c.C,[2,al.a],[2,el.a]],null,null),(l()(),c._23(0,["Menu"])),(l()(),c._23(3,["\n    "])),(l()(),c._23(null,["\n  "])),(l()(),c._23(0,["\n\n  "])),(l()(),c._4(0,null,0,9,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],[["window","resize"]],function(l,n,a){var u=!0;return"window:resize"===n&&(u=!1!==c._18(l,20).resize()&&u),u},ol.b,ol.a)),c._2(4374528,[[2,4]],0,_l.a,[Y.a,N.a,X.a,c.k,c.C,K.a,Q.a,c.w,[2,ll.a],[2,il.a]],null,null),(l()(),c._23(1,["\n    "])),(l()(),c._4(0,null,1,5,"ion-list",[],null,null,null,null,null)),c._2(16384,null,0,rl.a,[Y.a,c.k,c.C,N.a,W.l,X.a],null,null),(l()(),c._23(null,["\n      "])),(l()(),c.Y(16777216,null,null,1,null,u)),c._2(802816,null,0,cl.h,[c.M,c.I,c.q],{ngForOf:[0,"ngForOf"]},null),(l()(),c._23(null,["\n    "])),(l()(),c._23(1,["\n  "])),(l()(),c._23(0,["\n\n"])),(l()(),c._23(null,["\n\n"])),(l()(),c._23(null,["\n"])),(l()(),c._4(0,null,null,2,"ion-nav",[["swipeBackEnabled","false"]],null,null,null,sl.b,sl.a)),c._20(6144,null,D.a,null,[dl.a]),c._2(4374528,[[1,4],["content",4]],0,dl.a,[[2,ll.a],[2,il.a],K.a,Y.a,N.a,c.k,c.w,c.C,c.j,W.l,bl.a,[2,fl.a],X.a,c.l],{swipeBackEnabled:[0,"swipeBackEnabled"],root:[1,"root"]},null)],function(l,n){var a=n.component;l(n,3,0,c._18(n,34)),l(n,26,0,a.pages);l(n,34,0,"false",a.rootPage)},function(l,n){l(n,10,0,c._18(n,11)._sbPadding),l(n,19,0,c._18(n,20).statusbarPadding,c._18(n,20)._hasRefresher)})}function e(l){return c._24(0,[(l()(),c._4(0,null,null,20,"ion-header",[],null,null,null,null,null)),c._2(16384,null,0,V.a,[Y.a,c.k,c.C,[2,ll.a]],null,null),(l()(),c._23(null,["\n  "])),(l()(),c._4(0,null,null,16,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,gl.b,gl.a)),c._2(49152,null,0,el.a,[K.a,[2,ll.a],[2,il.a],Y.a,c.k,c.C],null,null),(l()(),c._23(3,["\n    "])),(l()(),c._4(0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,a){var u=!0;return"click"===n&&(u=!1!==c._18(l,8).toggle()&&u),u},kl.b,kl.a)),c._2(1097728,[[1,4]],0,vl.a,[[8,""],Y.a,c.k,c.C],null,null),c._2(1064960,null,0,wl.a,[Z.a,[2,ll.a],[2,vl.a],[2,el.a]],{menuToggle:[0,"menuToggle"]},null),c._2(16384,null,1,Cl.a,[Y.a,c.k,c.C,[2,al.a],[2,el.a]],null,null),c._21(603979776,1,{_buttons:1}),(l()(),c._23(0,["\n      "])),(l()(),c._4(0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),c._2(147456,null,0,jl.a,[Y.a,c.k,c.C],{name:[0,"name"]},null),(l()(),c._23(0,["\n    "])),(l()(),c._23(3,["\n    "])),(l()(),c._4(0,null,3,2,"ion-title",[],null,null,null,ul.b,ul.a)),c._2(49152,null,0,tl.a,[Y.a,c.k,c.C,[2,al.a],[2,el.a]],null,null),(l()(),c._23(0,["Home"])),(l()(),c._23(3,["\n  "])),(l()(),c._23(null,["\n"])),(l()(),c._23(null,["\n\n"])),(l()(),c._4(0,null,null,18,"ion-content",[["padding",""]],[[2,"statusbar-padding",null],[2,"has-refresher",null]],[["window","resize"]],function(l,n,a){var u=!0;return"window:resize"===n&&(u=!1!==c._18(l,23).resize()&&u),u},ol.b,ol.a)),c._2(4374528,null,0,_l.a,[Y.a,N.a,X.a,c.k,c.C,K.a,Q.a,c.w,[2,ll.a],[2,il.a]],null,null),(l()(),c._23(1,["\n  "])),(l()(),c._4(0,null,1,1,"h3",[],null,null,null,null,null)),(l()(),c._23(null,["Ionic Menu Starter"])),(l()(),c._23(1,["\n\n  "])),(l()(),c._4(0,null,1,4,"p",[],null,null,null,null,null)),(l()(),c._23(null,["\n    If you get lost, the "])),(l()(),c._4(0,null,null,1,"a",[["href","http://ionicframework.com/docs/v2"]],null,null,null,null,null)),(l()(),c._23(null,["docs"])),(l()(),c._23(null,[" will show you the way.\n  "])),(l()(),c._23(1,["\n\n  "])),(l()(),c._4(0,null,1,5,"button",[["ion-button",""],["menuToggle",""],["secondary",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,a){var u=!0;return"click"===n&&(u=!1!==c._18(l,36).toggle()&&u),u},kl.b,kl.a)),c._2(1097728,[[2,4]],0,vl.a,[[8,""],Y.a,c.k,c.C],null,null),c._2(1064960,null,0,wl.a,[Z.a,[2,ll.a],[2,vl.a],[2,el.a]],{menuToggle:[0,"menuToggle"]},null),c._2(16384,null,1,Cl.a,[Y.a,c.k,c.C,[2,al.a],[2,el.a]],null,null),c._21(603979776,2,{_buttons:1}),(l()(),c._23(0,["Toggle Menu"])),(l()(),c._23(1,["\n"])),(l()(),c._23(null,["\n"]))],function(l,n){l(n,8,0,"");l(n,13,0,"menu");l(n,36,0,"")},function(l,n){l(n,3,0,c._18(n,4)._hidden,c._18(n,4)._sbPadding),l(n,6,0,c._18(n,8).isHidden),l(n,12,0,c._18(n,13)._hidden),l(n,22,0,c._18(n,23).statusbarPadding,c._18(n,23)._hasRefresher),l(n,34,0,c._18(n,36).isHidden)})}function o(l){return c._24(0,[(l()(),c._4(0,null,null,12,"button",[["class","item item-block"],["ion-item",""]],null,[[null,"click"]],function(l,n,a){var u=!0,t=l.component;return"click"===n&&(u=!1!==t.itemTapped(a,l.context.$implicit)&&u),u},H.b,H.a)),c._2(1097728,null,3,L.a,[R.a,Y.a,c.k,c.C,[2,J.a]],null,null),c._21(335544320,2,{contentLabel:0}),c._21(603979776,3,{_buttons:1}),c._21(603979776,4,{_icons:1}),c._2(16384,null,0,S.a,[],null,null),(l()(),c._23(2,["\n      "])),(l()(),c._4(0,null,0,1,"ion-icon",[["item-start",""],["role","img"]],[[2,"hide",null]],null,null,null,null)),c._2(147456,[[4,4]],0,jl.a,[Y.a,c.k,c.C],{name:[0,"name"]},null),(l()(),c._23(2,["\n      ","\n      "])),(l()(),c._4(0,null,4,1,"div",[["class","item-note"],["item-end",""]],null,null,null,null,null)),(l()(),c._23(null,["\n        ","\n      "])),(l()(),c._23(2,["\n    "]))],function(l,n){l(n,8,0,n.context.$implicit.icon)},function(l,n){l(n,7,0,c._18(n,8)._hidden),l(n,9,0,n.context.$implicit.title),l(n,11,0,n.context.$implicit.note)})}function _(l){return c._24(0,[(l()(),c._4(0,null,null,4,"div",[["padding",""]],null,null,null,null,null)),(l()(),c._23(null,["\n    You navigated here from "])),(l()(),c._4(0,null,null,1,"b",[],null,null,null,null,null)),(l()(),c._23(null,["",""])),(l()(),c._23(null,["\n  "]))],null,function(l,n){l(n,3,0,n.component.selectedItem.title)})}function i(l){return c._24(0,[(l()(),c._4(0,null,null,20,"ion-header",[],null,null,null,null,null)),c._2(16384,null,0,V.a,[Y.a,c.k,c.C,[2,ll.a]],null,null),(l()(),c._23(null,["\n  "])),(l()(),c._4(0,null,null,16,"ion-navbar",[["class","toolbar"]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,gl.b,gl.a)),c._2(49152,null,0,el.a,[K.a,[2,ll.a],[2,il.a],Y.a,c.k,c.C],null,null),(l()(),c._23(3,["\n    "])),(l()(),c._4(0,null,0,8,"button",[["ion-button",""],["menuToggle",""]],[[8,"hidden",0]],[[null,"click"]],function(l,n,a){var u=!0;return"click"===n&&(u=!1!==c._18(l,8).toggle()&&u),u},kl.b,kl.a)),c._2(1097728,[[1,4]],0,vl.a,[[8,""],Y.a,c.k,c.C],null,null),c._2(1064960,null,0,wl.a,[Z.a,[2,ll.a],[2,vl.a],[2,el.a]],{menuToggle:[0,"menuToggle"]},null),c._2(16384,null,1,Cl.a,[Y.a,c.k,c.C,[2,al.a],[2,el.a]],null,null),c._21(603979776,1,{_buttons:1}),(l()(),c._23(0,["\n      "])),(l()(),c._4(0,null,0,1,"ion-icon",[["name","menu"],["role","img"]],[[2,"hide",null]],null,null,null,null)),c._2(147456,null,0,jl.a,[Y.a,c.k,c.C],{name:[0,"name"]},null),(l()(),c._23(0,["\n    "])),(l()(),c._23(3,["\n    "])),(l()(),c._4(0,null,3,2,"ion-title",[],null,null,null,ul.b,ul.a)),c._2(49152,null,0,tl.a,[Y.a,c.k,c.C,[2,al.a],[2,el.a]],null,null),(l()(),c._23(0,["List"])),(l()(),c._23(3,["\n  "])),(l()(),c._23(null,["\n"])),(l()(),c._23(null,["\n\n"])),(l()(),c._4(0,null,null,12,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],[["window","resize"]],function(l,n,a){var u=!0;return"window:resize"===n&&(u=!1!==c._18(l,23).resize()&&u),u},ol.b,ol.a)),c._2(4374528,null,0,_l.a,[Y.a,N.a,X.a,c.k,c.C,K.a,Q.a,c.w,[2,ll.a],[2,il.a]],null,null),(l()(),c._23(1,["\n  "])),(l()(),c._4(0,null,1,5,"ion-list",[],null,null,null,null,null)),c._2(16384,null,0,rl.a,[Y.a,c.k,c.C,N.a,W.l,X.a],null,null),(l()(),c._23(null,["\n    "])),(l()(),c.Y(16777216,null,null,1,null,o)),c._2(802816,null,0,cl.h,[c.M,c.I,c.q],{ngForOf:[0,"ngForOf"]},null),(l()(),c._23(null,["\n  "])),(l()(),c._23(1,["\n  "])),(l()(),c.Y(16777216,null,1,1,null,_)),c._2(16384,null,0,cl.i,[c.M,c.I],{ngIf:[0,"ngIf"]},null),(l()(),c._23(1,["\n"])),(l()(),c._23(null,["\n"]))],function(l,n){var a=n.component;l(n,8,0,"");l(n,13,0,"menu"),l(n,29,0,a.items),l(n,33,0,a.selectedItem)},function(l,n){l(n,3,0,c._18(n,4)._hidden,c._18(n,4)._sbPadding),l(n,6,0,c._18(n,8).isHidden),l(n,12,0,c._18(n,13)._hidden),l(n,22,0,c._18(n,23).statusbarPadding,c._18(n,23)._hasRefresher)})}Object.defineProperty(n,"__esModule",{value:!0});var r=a(36),c=a(0),s=a(5),d=a(56),b=a(75),f=a(76),m=function(){return function(l){this.navCtrl=l}}();m=Object(s.__decorate)([Object(c.i)({selector:"page-home",templateUrl:"home.html"}),Object(s.__metadata)("design:paramtypes",["function"==typeof(p=void 0!==d.e&&d.e)&&p||Object])],m);var p,h=g=function(){function l(l,n){this.navCtrl=l,this.navParams=n,this.selectedItem=n.get("item"),this.icons=["flask","wifi","beer","football","basketball","paper-plane","american-football","boat","bluetooth","build"],this.items=[];for(var a=1;a<11;a++)this.items.push({title:"Item "+a,note:"This is item #"+a,icon:this.icons[Math.floor(Math.random()*this.icons.length)]})}return l.prototype.itemTapped=function(l,n){this.navCtrl.push(g,{item:n})},l}();h=g=Object(s.__decorate)([Object(c.i)({selector:"page-list",templateUrl:"list.html"}),Object(s.__metadata)("design:paramtypes",["function"==typeof(k=void 0!==d.e&&d.e)&&k||Object,"function"==typeof(v=void 0!==d.f&&d.f)&&v||Object])],h);var g,k,v,w=function(){function l(l,n,a){this.platform=l,this.statusBar=n,this.splashScreen=a,this.rootPage=m,this.initializeApp(),this.pages=[{title:"Home",component:m},{title:"List",component:h}]}return l.prototype.initializeApp=function(){var l=this;this.platform.ready().then(function(){l.statusBar.styleDefault(),l.splashScreen.hide()})},l.prototype.openPage=function(l){this.nav.setRoot(l.component)},l}();Object(s.__decorate)([Object(c.L)(d.d),Object(s.__metadata)("design:type","function"==typeof(C=void 0!==d.d&&d.d)&&C||Object)],w.prototype,"nav",void 0),w=Object(s.__decorate)([Object(c.i)({templateUrl:"app.html"}),Object(s.__metadata)("design:paramtypes",["function"==typeof(j=void 0!==d.g&&d.g)&&j||Object,"function"==typeof(y=void 0!==b.a&&b.a)&&y||Object,"function"==typeof(O=void 0!==f.a&&f.a)&&O||Object])],w);var C,j,y,O,P=function(){return function(){}}();P=Object(s.__decorate)([Object(c.t)({declarations:[w,m,h],imports:[r.a,d.c.forRoot(w,{},{links:[]})],bootstrap:[d.a],entryComponents:[w,m,h],providers:[b.a,f.a,{provide:c.l,useClass:d.b}]})],P);var T=a(47),z=a(214),I=a(215),M=a(216),x=a(217),E=a(218),$=a(219),q=a(220),B=a(221),F=a(222),H=a(116),L=a(16),R=a(14),Y=a(1),J=a(38),S=a(52),U=a(93),Z=a(22),A=a(223),D=a(34),G=a(66),N=a(3),Q=a(23),W=a(6),X=a(9),K=a(8),V=a(55),ll=a(4),nl=a(224),al=a(27),ul=a(117),tl=a(44),el=a(25),ol=a(118),_l=a(21),il=a(18),rl=a(42),cl=a(11),sl=a(225),dl=a(53),bl=a(30),fl=a(15),ml=[],pl=c._1({encapsulation:2,styles:ml,data:{}}),hl=c.Z("ng-component",w,function(l){return c._24(0,[(l()(),c._4(0,null,null,1,"ng-component",[],null,null,null,t,pl)),c._2(49152,null,0,w,[N.a,b.a,f.a],null,null)],null,null)},{},{},[]),gl=a(185),kl=a(35),vl=a(19),wl=a(67),Cl=a(74),jl=a(32),yl=[],Ol=c._1({encapsulation:2,styles:yl,data:{}}),Pl=c.Z("page-home",m,function(l){return c._24(0,[(l()(),c._4(0,null,null,1,"page-home",[],null,null,null,e,Ol)),c._2(49152,null,0,m,[il.a],null,null)],null,null)},{},{},[]),Tl=a(10),zl=[],Il=c._1({encapsulation:2,styles:zl,data:{}}),Ml=c.Z("page-list",h,function(l){return c._24(0,[(l()(),c._4(0,null,null,1,"page-list",[],null,null,null,i,Il)),c._2(49152,null,0,h,[il.a,Tl.a],null,null)],null,null)},{},{},[]),xl=a(115),El=a(20),$l=a(85),ql=a(87),Bl=a(112),Fl=a(33),Hl=a(92),Ll=a(182),Rl=a(49),Yl=a(43),Jl=a(95),Sl=a(61),Ul=a(100),Zl=a(111),Al=a(107),Dl=a(181),Gl=a(113),Nl=a(94),Ql=a(114),Wl=c._0(P,[T.b],function(l){return c._15([c._16(512,c.j,c.W,[[8,[z.a,I.a,M.a,x.a,E.a,$.a,q.a,B.a,F.a,hl,Pl,Ml]],[3,c.j],c.u]),c._16(5120,c.s,c._14,[[3,c.s]]),c._16(4608,cl.k,cl.j,[c.s]),c._16(5120,c.b,c._5,[]),c._16(5120,c.q,c._11,[]),c._16(5120,c.r,c._12,[]),c._16(4608,r.c,r.s,[cl.c]),c._16(6144,c.G,null,[r.c]),c._16(4608,r.f,xl.a,[]),c._16(5120,r.d,function(l,n,a,u){return[new r.l(l),new r.p(n),new r.o(a,u)]},[cl.c,cl.c,cl.c,r.f]),c._16(4608,r.e,r.e,[r.d,c.w]),c._16(135680,r.n,r.n,[cl.c]),c._16(4608,r.m,r.m,[r.e,r.n]),c._16(6144,c.E,null,[r.m]),c._16(6144,r.q,null,[r.n]),c._16(4608,c.J,c.J,[c.w]),c._16(4608,r.h,r.h,[cl.c]),c._16(4608,r.j,r.j,[cl.c]),c._16(4608,El.k,El.k,[]),c._16(4608,El.c,El.c,[]),c._16(4608,$l.a,$l.a,[K.a,Y.a]),c._16(4608,ql.a,ql.a,[K.a,Y.a]),c._16(4608,Bl.a,Bl.a,[]),c._16(4608,R.a,R.a,[]),c._16(4608,Fl.a,Fl.a,[N.a]),c._16(4608,Q.a,Q.a,[Y.a,N.a,c.w,X.a]),c._16(4608,Hl.a,Hl.a,[K.a,Y.a]),c._16(5120,cl.f,Ll.b,[cl.q,[2,cl.a],Y.a]),c._16(4608,cl.e,cl.e,[cl.f]),c._16(5120,Rl.b,Rl.d,[K.a,Rl.a]),c._16(5120,fl.a,fl.b,[K.a,Rl.b,cl.e,Yl.b,c.j]),c._16(4608,Jl.a,Jl.a,[K.a,Y.a,fl.a]),c._16(4608,Sl.a,Sl.a,[K.a,Y.a]),c._16(4608,Ul.a,Ul.a,[K.a,Y.a,fl.a]),c._16(4608,Zl.a,Zl.a,[Y.a,N.a,X.a,K.a,W.l]),c._16(4608,Al.a,Al.a,[K.a,Y.a]),c._16(4608,bl.a,bl.a,[N.a,Y.a]),c._16(4608,b.a,b.a,[]),c._16(4608,f.a,f.a,[]),c._16(512,cl.b,cl.b,[]),c._16(512,c.l,Dl.a,[]),c._16(256,Y.b,{},[]),c._16(1024,Gl.a,Gl.b,[]),c._16(1024,N.a,N.b,[r.b,Gl.a,c.w]),c._16(1024,Y.a,Y.c,[Y.b,N.a]),c._16(512,X.a,X.a,[N.a]),c._16(512,Z.a,Z.a,[]),c._16(512,K.a,K.a,[Y.a,N.a,[2,Z.a]]),c._16(512,W.l,W.l,[K.a]),c._16(256,Rl.a,{links:[]},[]),c._16(512,c.h,c.h,[]),c._16(512,Nl.a,Nl.a,[c.h]),c._16(1024,Yl.b,Yl.c,[Nl.a,c.p]),c._16(1024,c.c,function(l,n,a,u,t,e,o,_,i,c,s,d,b,f){return[r.r(l,n),Ql.a(a),Bl.b(u,t),Zl.b(e,o,_,i,c),Yl.d(s,d,b,f)]},[[2,r.i],[2,c.v],Y.a,N.a,X.a,Y.a,N.a,X.a,K.a,W.l,Y.a,Rl.a,Yl.b,c.w]),c._16(512,c.d,c.d,[[2,c.c]]),c._16(131584,c._3,c._3,[c.w,c.X,c.p,c.l,c.j,c.d]),c._16(2048,c.f,null,[c._3]),c._16(512,c.e,c.e,[c.f]),c._16(512,r.a,r.a,[[3,r.a]]),c._16(512,El.j,El.j,[]),c._16(512,El.d,El.d,[]),c._16(512,El.i,El.i,[]),c._16(512,Ll.a,Ll.a,[]),c._16(512,P,P,[]),c._16(256,T.a,w,[]),c._16(256,cl.a,"/",[])])});Object(c.Q)(),Object(r.k)().bootstrapModuleFactory(Wl)}},[186]);
+webpackJsonp([0],{
+
+/***/ 110:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 110;
+
+/***/ }),
+
+/***/ 151:
+/***/ (function(module, exports) {
+
+function webpackEmptyAsyncContext(req) {
+	// Here Promise.resolve().then() is used instead of new Promise() to prevent
+	// uncatched exception popping up in devtools
+	return Promise.resolve().then(function() {
+		throw new Error("Cannot find module '" + req + "'.");
+	});
+}
+webpackEmptyAsyncContext.keys = function() { return []; };
+webpackEmptyAsyncContext.resolve = webpackEmptyAsyncContext;
+module.exports = webpackEmptyAsyncContext;
+webpackEmptyAsyncContext.id = 151;
+
+/***/ }),
+
+/***/ 191:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return reducers; });
+/* unused harmony export logger */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return metaReducers; });
+/* unused harmony export getCategoriesState */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return getCategories; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__ngrx_store__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ngrx_store_freeze__ = __webpack_require__(281);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ngrx_store_freeze___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_ngrx_store_freeze__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__categories__ = __webpack_require__(271);
+
+/**
+ * storeFreeze prevents state from being mutated. When mutation occurs, an
+ * exception will be thrown. This is useful during development mode to
+ * ensure that none of the reducers accidentally mutates the state.
+ */
+
+/**
+ * Every reducer module's default export is the reducer function itself. In
+ * addition, each module should export a type or interface that describes
+ * the state of the reducer plus any selector functions. The `* as`
+ * notation packages up all of the exports into a single object.
+ */
+
+/**
+ * Our state is composed of a map of action reducer functions.
+ * These reducer functions are called with each dispatched action
+ * and the current or initial state and return a new immutable state.
+ */
+var reducers = {
+    categories: __WEBPACK_IMPORTED_MODULE_2__categories__["b" /* reducer */]
+};
+// console.log all actions
+function logger(reducer) {
+    return function (state, action) {
+        console.log('state', state);
+        console.log('action', action);
+        return reducer(state, action);
+    };
+}
+/**
+ * By default, @ngrx/store uses combineReducers with the reducer map to compose
+ * the root meta-reducer. To add more meta-reducers, provide an array of meta-reducers
+ * that will be composed to form the root meta-reducer.
+ */
+var metaReducers = [logger, __WEBPACK_IMPORTED_MODULE_1_ngrx_store_freeze__["storeFreeze"]];
+/**
+ * Layout Selectors
+ */
+var getCategoriesState = Object(__WEBPACK_IMPORTED_MODULE_0__ngrx_store__["c" /* createFeatureSelector */])('categories');
+var getCategories = Object(__WEBPACK_IMPORTED_MODULE_0__ngrx_store__["d" /* createSelector */])(getCategoriesState, __WEBPACK_IMPORTED_MODULE_2__categories__["a" /* getCategories */]);
+//# sourceMappingURL=index.js.map
+
+/***/ }),
+
+/***/ 192:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LOAD_COMPLETE; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return SELECT_CATEGORY; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return LoadComplete; });
+/* unused harmony export Select */
+var LOAD_COMPLETE = '[Categories] Load';
+var SELECT_CATEGORY = '[Categories] Select Category';
+/**
+ * Every action is comprised of at least a type and an optional
+ * payload. Expressing actions as classes enables powerful
+ * type checking in reducer functions.
+ *
+ * See Discriminated Unions: https://www.typescriptlang.org/docs/handbook/advanced-types.html#discriminated-unions
+ */
+var LoadComplete = (function () {
+    function LoadComplete(payload) {
+        this.payload = payload;
+        this.type = LOAD_COMPLETE;
+    }
+    return LoadComplete;
+}());
+
+var Select = (function () {
+    function Select(payload) {
+        this.payload = payload;
+        this.type = SELECT_CATEGORY;
+    }
+    return Select;
+}());
+
+//# sourceMappingURL=categories.js.map
+
+/***/ }),
+
+/***/ 197:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return HomePage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(44);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngrx_store__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__reducers__ = __webpack_require__(191);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+var HomePage = (function () {
+    function HomePage(navCtrl, store) {
+        this.navCtrl = navCtrl;
+        this.store = store;
+        this.categories$ = this.store.select(__WEBPACK_IMPORTED_MODULE_3__reducers__["a" /* getCategories */]);
+        this.categories$.subscribe(function (e) { return console.log(e); });
+    }
+    return HomePage;
+}());
+HomePage = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
+        selector: 'page-home',template:/*ion-inline-start:"C:\Users\andy\workspace\lab\myApp\src\pages\home\home.html"*/'<ion-header>\n  <ion-navbar>\n    <button ion-button menuToggle>\n      <ion-icon name="menu"></ion-icon>\n    </button>\n    <ion-title>Home</ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content padding>\n  <h3>Ionic Menu Starter</h3>\n\n  <p>\n    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will show you the way.\n  </p>\n\n  <ul>\n    <li *ngFor="let category of (categories$ | async)"> {{ category.name }}</li>\n  </ul>\n\n  <button ion-button secondary menuToggle>Toggle Menu</button>\n</ion-content>\n'/*ion-inline-end:"C:\Users\andy\workspace\lab\myApp\src\pages\home\home.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */], __WEBPACK_IMPORTED_MODULE_2__ngrx_store__["a" /* Store */]])
+], HomePage);
+
+//# sourceMappingURL=home.js.map
+
+/***/ }),
+
+/***/ 198:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ListPage; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(44);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+var ListPage = ListPage_1 = (function () {
+    function ListPage(navCtrl, navParams) {
+        this.navCtrl = navCtrl;
+        this.navParams = navParams;
+        // If we navigated to this page, we will have an item available as a nav param
+        this.selectedItem = navParams.get('item');
+        // Let's populate this page with some filler content for funzies
+        this.icons = ['flask', 'wifi', 'beer', 'football', 'basketball', 'paper-plane',
+            'american-football', 'boat', 'bluetooth', 'build'];
+        this.items = [];
+        for (var i = 1; i < 11; i++) {
+            this.items.push({
+                title: 'Item ' + i,
+                note: 'This is item #' + i,
+                icon: this.icons[Math.floor(Math.random() * this.icons.length)]
+            });
+        }
+    }
+    ListPage.prototype.itemTapped = function (event, item) {
+        // That's right, we're pushing to ourselves!
+        this.navCtrl.push(ListPage_1, {
+            item: item
+        });
+    };
+    return ListPage;
+}());
+ListPage = ListPage_1 = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
+        selector: 'page-list',template:/*ion-inline-start:"C:\Users\andy\workspace\lab\myApp\src\pages\list\list.html"*/'<ion-header>\n\n  <ion-navbar>\n\n    <button ion-button menuToggle>\n\n      <ion-icon name="menu"></ion-icon>\n\n    </button>\n\n    <ion-title>List</ion-title>\n\n  </ion-navbar>\n\n</ion-header>\n\n\n\n<ion-content>\n\n  <ion-list>\n\n    <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">\n\n      <ion-icon [name]="item.icon" item-start></ion-icon>\n\n      {{item.title}}\n\n      <div class="item-note" item-end>\n\n        {{item.note}}\n\n      </div>\n\n    </button>\n\n  </ion-list>\n\n  <div *ngIf="selectedItem" padding>\n\n    You navigated here from <b>{{selectedItem.title}}</b>\n\n  </div>\n\n</ion-content>\n\n'/*ion-inline-end:"C:\Users\andy\workspace\lab\myApp\src\pages\list\list.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavParams */]])
+], ListPage);
+
+var ListPage_1;
+//# sourceMappingURL=list.js.map
+
+/***/ }),
+
+/***/ 199:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__ = __webpack_require__(200);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_module__ = __webpack_require__(217);
+
+
+Object(__WEBPACK_IMPORTED_MODULE_0__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_1__app_module__["a" /* AppModule */]);
+//# sourceMappingURL=main.js.map
+
+/***/ }),
+
+/***/ 217:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AppModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngrx_store__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_ionic_angular__ = __webpack_require__(44);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__reducers__ = __webpack_require__(191);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__app_component__ = __webpack_require__(272);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_home_home__ = __webpack_require__(197);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__pages_list_list__ = __webpack_require__(198);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__ionic_native_status_bar__ = __webpack_require__(193);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__ionic_native_splash_screen__ = __webpack_require__(196);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+
+
+var AppModule = (function () {
+    function AppModule() {
+    }
+    return AppModule;
+}());
+AppModule = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_1__angular_core__["L" /* NgModule */])({
+        declarations: [
+            __WEBPACK_IMPORTED_MODULE_5__app_component__["a" /* MyApp */],
+            __WEBPACK_IMPORTED_MODULE_6__pages_home_home__["a" /* HomePage */],
+            __WEBPACK_IMPORTED_MODULE_7__pages_list_list__["a" /* ListPage */]
+        ],
+        imports: [
+            __WEBPACK_IMPORTED_MODULE_0__angular_platform_browser__["a" /* BrowserModule */],
+            __WEBPACK_IMPORTED_MODULE_2__ngrx_store__["b" /* StoreModule */].forRoot(__WEBPACK_IMPORTED_MODULE_4__reducers__["c" /* reducers */], { metaReducers: __WEBPACK_IMPORTED_MODULE_4__reducers__["b" /* metaReducers */] }),
+            __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["c" /* IonicModule */].forRoot(__WEBPACK_IMPORTED_MODULE_5__app_component__["a" /* MyApp */], {}, {
+                links: []
+            }),
+        ],
+        bootstrap: [__WEBPACK_IMPORTED_MODULE_3_ionic_angular__["a" /* IonicApp */]],
+        entryComponents: [
+            __WEBPACK_IMPORTED_MODULE_5__app_component__["a" /* MyApp */],
+            __WEBPACK_IMPORTED_MODULE_6__pages_home_home__["a" /* HomePage */],
+            __WEBPACK_IMPORTED_MODULE_7__pages_list_list__["a" /* ListPage */]
+        ],
+        providers: [
+            __WEBPACK_IMPORTED_MODULE_8__ionic_native_status_bar__["a" /* StatusBar */],
+            __WEBPACK_IMPORTED_MODULE_9__ionic_native_splash_screen__["a" /* SplashScreen */],
+            { provide: __WEBPACK_IMPORTED_MODULE_1__angular_core__["v" /* ErrorHandler */], useClass: __WEBPACK_IMPORTED_MODULE_3_ionic_angular__["b" /* IonicErrorHandler */] }
+        ]
+    })
+], AppModule);
+
+//# sourceMappingURL=app.module.js.map
+
+/***/ }),
+
+/***/ 271:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* unused harmony export initialState */
+/* harmony export (immutable) */ __webpack_exports__["b"] = reducer;
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return getCategories; });
+/* unused harmony export getSelectedCategoryId */
+/* unused harmony export getSelected */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__ngrx_store__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__actions_categories__ = __webpack_require__(192);
+var __assign = (this && this.__assign) || Object.assign || function(t) {
+    for (var s, i = 1, n = arguments.length; i < n; i++) {
+        s = arguments[i];
+        for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+            t[p] = s[p];
+    }
+    return t;
+};
+//import { createSelector } from 'reselect';
+
+
+;
+var initialState = {
+    categories: [],
+    selectedCategoryId: null
+};
+function reducer(state, action) {
+    if (state === void 0) { state = initialState; }
+    switch (action.type) {
+        case __WEBPACK_IMPORTED_MODULE_1__actions_categories__["a" /* LOAD_COMPLETE */]: {
+            var categories_1 = action.payload;
+            console.log('here', action.payload);
+            return __assign({}, state, { categories: categories_1.slice() });
+        }
+        case __WEBPACK_IMPORTED_MODULE_1__actions_categories__["c" /* SELECT_CATEGORY */]: {
+            return __assign({}, state, { selectedCategoryId: action.payload });
+        }
+        default: {
+            return state;
+        }
+    }
+}
+/**
+ * Because the data structure is defined within the reducer it is optimal to
+ * locate our selector functions at this level. If store is to be thought of
+ * as a database, and reducers the tables, selectors can be considered the
+ * queries into said database. Remember to keep your selectors small and
+ * focused so they can be combined and composed to fit each particular
+ * use-case.
+ */
+var getCategories = function (state) { return state.categories; };
+var getSelectedCategoryId = function (state) { return state.selectedCategoryId; };
+var getSelected = Object(__WEBPACK_IMPORTED_MODULE_0__ngrx_store__["d" /* createSelector */])(getCategories, getSelectedCategoryId, function (categories, selectedId) {
+    return categories.find(function (e) { return e.id === selectedId; });
+});
+//# sourceMappingURL=categories.js.map
+
+/***/ }),
+
+/***/ 272:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MyApp; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(44);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__ = __webpack_require__(193);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__ = __webpack_require__(196);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ngrx_store__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__actions_categories__ = __webpack_require__(192);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pages_home_home__ = __webpack_require__(197);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__pages_list_list__ = __webpack_require__(198);
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+var MyApp = (function () {
+    function MyApp(platform, statusBar, splashScreen, store) {
+        this.platform = platform;
+        this.statusBar = statusBar;
+        this.splashScreen = splashScreen;
+        this.store = store;
+        this.rootPage = __WEBPACK_IMPORTED_MODULE_6__pages_home_home__["a" /* HomePage */];
+        this.initializeApp();
+        // used for an example of ngFor and navigation
+        this.pages = [
+            { title: 'Home', component: __WEBPACK_IMPORTED_MODULE_6__pages_home_home__["a" /* HomePage */] },
+            { title: 'List', component: __WEBPACK_IMPORTED_MODULE_7__pages_list_list__["a" /* ListPage */] }
+        ];
+    }
+    MyApp.prototype.initializeApp = function () {
+        var _this = this;
+        this.platform.ready().then(function () {
+            // Okay, so the platform is ready and our plugins are available.
+            // Here you can do any higher level native things you might need.
+            _this.statusBar.styleDefault();
+            _this.splashScreen.hide();
+            _this.loadCategories();
+        });
+    };
+    MyApp.prototype.loadCategories = function () {
+        this.store.dispatch(new __WEBPACK_IMPORTED_MODULE_5__actions_categories__["b" /* LoadComplete */]([
+            { id: '1', name: 'category1' },
+            { id: '2', name: 'category2' },
+            { id: '3', name: 'category3' },
+            { id: '4', name: 'category4' },
+            { id: '5', name: 'category5' },
+            { id: '6', name: 'category6' },
+            { id: '7', name: 'category7' },
+        ]));
+    };
+    MyApp.prototype.openPage = function (page) {
+        // Reset the content nav to have just this page
+        // we wouldn't want the back button to show in this scenario
+        this.nav.setRoot(page.component);
+    };
+    return MyApp;
+}());
+__decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_14" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* Nav */]),
+    __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["d" /* Nav */])
+], MyApp.prototype, "nav", void 0);
+MyApp = __decorate([
+    Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({template:/*ion-inline-start:"C:\Users\andy\workspace\lab\myApp\src\app\app.html"*/'<ion-menu [content]="content">\n\n  <ion-header>\n\n    <ion-toolbar>\n\n      <ion-title>Menu</ion-title>\n\n    </ion-toolbar>\n\n  </ion-header>\n\n\n\n  <ion-content>\n\n    <ion-list>\n\n      <button menuClose ion-item *ngFor="let p of pages" (click)="openPage(p)">\n\n        {{p.title}}\n\n      </button>\n\n    </ion-list>\n\n  </ion-content>\n\n\n\n</ion-menu>\n\n\n\n<!-- Disable swipe-to-go-back because it\'s poor UX to combine STGB with side menus -->\n\n<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>'/*ion-inline-end:"C:\Users\andy\workspace\lab\myApp\src\app\app.html"*/
+    }),
+    __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["g" /* Platform */],
+        __WEBPACK_IMPORTED_MODULE_2__ionic_native_status_bar__["a" /* StatusBar */],
+        __WEBPACK_IMPORTED_MODULE_3__ionic_native_splash_screen__["a" /* SplashScreen */],
+        __WEBPACK_IMPORTED_MODULE_4__ngrx_store__["a" /* Store */]])
+], MyApp);
+
+//# sourceMappingURL=app.component.js.map
+
+/***/ })
+
+},[199]);
+//# sourceMappingURL=main.js.map
