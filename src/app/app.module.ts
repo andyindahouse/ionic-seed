@@ -1,6 +1,10 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { ErrorHandler, NgModule } from '@angular/core';
+import { StoreModule } from '@ngrx/store';
 import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
+
+import { reducers, metaReducers } from '../reducers';
+
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
@@ -17,6 +21,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
   ],
   imports: [
     BrowserModule,
+    StoreModule.forRoot(reducers, { metaReducers }),
     IonicModule.forRoot(MyApp),
   ],
   bootstrap: [IonicApp],

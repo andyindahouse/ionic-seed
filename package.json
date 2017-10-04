@@ -22,6 +22,8 @@
     "@angular/http": "4.4.3",
     "@angular/platform-browser": "4.4.3",
     "@angular/platform-browser-dynamic": "4.4.3",
+    "@ngrx/store": "^4.0.3",
+    "@ngrx/store-devtools": "^4.0.0",
     "@ionic-native/core": "4.3.0",
     "@ionic-native/splash-screen": "4.3.0",
     "@ionic-native/status-bar": "4.3.0",
@@ -35,6 +37,7 @@
   "devDependencies": {
     "@ionic/app-scripts": "3.0.0",
     "angular-cli-ghpages": "^0.5.1",
+    "ngrx-store-freeze": "^0.2.0",
     "typescript": "2.3.4"
   },
   "description": "An Ionic project"
