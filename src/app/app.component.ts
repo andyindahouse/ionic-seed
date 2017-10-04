@@ -22,16 +22,13 @@ export class MyApp {
 
   pages: Array<{title: string, component: any}>;
 
-<<<<<<< Updated upstream
   constructor(
     public platform: Platform,
     public statusBar: StatusBar,
     public splashScreen: SplashScreen,
-    private store: Store<fromRoot.State>
+    private store: Store<fromRoot.State>,
+    private authProvider: AuthProvider
   ) {
-=======
-  constructor(public platform: Platform, public statusBar: StatusBar, public splashScreen: SplashScreen, private authProvider: AuthProvider) {
->>>>>>> Stashed changes
     this.initializeApp();
 
     // used for an example of ngFor and navigation
