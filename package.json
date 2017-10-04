@@ -9,7 +9,9 @@
     "build": "ionic-app-scripts build",
     "lint": "ionic-app-scripts lint",
     "ionic:build": "ionic-app-scripts build",
-    "ionic:serve": "ionic-app-scripts serve"
+    "ionic:serve": "ionic-app-scripts serve",
+    "pregithub-pages": "npm build --prod --base-href 'https://github.com/andyindahouse/ionic-seed'",
+    "github-pages": "ngh --dir www"
   },
   "dependencies": {
     "@angular/common": "4.4.3",
@@ -32,6 +34,7 @@
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.0.0",
+    "angular-cli-ghpages": "^0.5.1",
     "typescript": "2.3.4"
   },
   "description": "An Ionic project"
